@@ -1,0 +1,3 @@
+# Testing
+
+This is for testing Unity with eMudhra CVE-2026-111943 certificates. It tries to connect to a list of servers that have easily bypassed certificates. Each should be blocked, but YMMV depending on your OS version...
